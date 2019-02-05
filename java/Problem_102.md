@@ -38,5 +38,5 @@ public List<List<Integer>> subarraySum(int[] nums, int k) {
     }
         
     return res;
-    }
+}
 ```
